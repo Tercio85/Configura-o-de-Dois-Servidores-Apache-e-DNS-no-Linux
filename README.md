@@ -1,4 +1,4 @@
-# Configura o de Dois Servidores Apache e DNS no Linux
+# Configuração de Dois Servidores Apache e DNS no Linux
 Este repositório descreve o processo de configuração de dois servidores Linux
 
 ## 1. Configurar Zona DNS
